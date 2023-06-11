@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159371355805",
+    "project_id": "imagechatapp-db915",
+    "storage_bucket": "imagechatapp-db915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159371355805:android:cc73199396c2fed3df1674",
+        "android_client_info": {
+          "package_name": "com.example.image_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159371355805-07ng49h6itl74icni14hch94n9ohct4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9M74_EbfMvUsKgiv11gdG43U0rR7EyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159371355805-07ng49h6itl74icni14hch94n9ohct4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
